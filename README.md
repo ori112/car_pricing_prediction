@@ -5,12 +5,12 @@ It follows a **proper ML workflow**: EDA → cleaning → splitting → encoding
 
 ##  Project Structure
 
-├── car_prices_dataset.csv # Raw dataset
-├── project_notebook.ipynb # Full analysis and modeling notebook
-├── README.md # Project documentation
-├── pyproject.toml # Dependencies & environment
-├── uv.lock # Dependency lock file
-├── .python-version # Python version
+├── car_prices_dataset.csv # Raw dataset</br>
+├── project_notebook.ipynb # Full analysis and modeling notebook</br>
+├── README.md # Project documentation</br>
+├── pyproject.toml # Dependencies & environment</br>
+├── uv.lock # Dependency lock file</br>
+├── .python-version # Python version</br>
 ├── .gitignore
 
 ## Objective
